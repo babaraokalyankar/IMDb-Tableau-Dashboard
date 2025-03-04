@@ -26,6 +26,3 @@ This dashboard visualizes Netflix content and genre trends, helping users unders
 ## Requirements
 - Tableau Desktop or Tableau Reader is required to view the `.twbx` files.
 
-## License
-This project is licensed under the MIT License.
-
