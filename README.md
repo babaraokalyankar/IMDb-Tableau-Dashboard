@@ -24,5 +24,5 @@ This dashboard visualizes Netflix content and genre trends, helping users unders
 3. Interact with the dashboards to explore the data and insights.
 
 ## Requirements
-- Tableau Desktop or Tableau Reader is required to view the `.twbx` files
+- Tableau Desktop or Tableau Reader is required to view the `.twbx` files.
 
